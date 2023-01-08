@@ -1,5 +1,3 @@
 # padaria-plus
 
-Neste projeto foi elaborado um site para uma padaria. 
-
-Curso CSS: Estilização através de seletores | DevMedia
+Neste projeto foi desenvolvido um site para uma padaria onde foi treinada as habilidades adquiridas no curso da plataforma online DevMedia.
